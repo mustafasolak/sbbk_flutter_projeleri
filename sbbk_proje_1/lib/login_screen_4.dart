@@ -23,10 +23,10 @@ class GirisEkrani extends StatelessWidget {
           children: [
             Image.asset(
               "assets/resimler/loginimage.png",
-              height: 80,
-              width: 80,
+              height: 60,
+              width: 60,
             ),
-            SizedBox(height: 30,),
+            SizedBox(height: 60,),
             Text(
               "Username :",
             ),
